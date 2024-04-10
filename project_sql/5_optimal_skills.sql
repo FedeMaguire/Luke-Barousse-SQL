@@ -4,7 +4,7 @@ Question: What are the most optimal skills to learn(aka it's in high demand and 
 - Concentrate on remote positions with specified salaries
 - Why? Targets skills that offer hob security (high demand) and financial benefits (high salaries),
   offering strategic insights for career development in data analysis
-*/
+
 WITH skills_demand AS (
     SELECT 
             skills_dim.skill_id,
@@ -48,7 +48,7 @@ ORDER BY
     avg_salary DESC,
     demand_count DESC
 LIMIT 25
-
+*/
 -- rewriting this query more consisely
 
 SELECT
@@ -62,12 +62,12 @@ FROM job_postings_fact
 WHERE
     job_title_short = 'Data Analyst'
     AND salary_year_avg IS NOT NULL
-    AND job_location= 'Anywhere'
+    --AND job_location= 'Anywhere'
 GROUP BY 
     skills_dim.skill_id
 HAVING
     COUNT(skills_job_dim.job_id)>10
 ORDER BY
-    avg_salary DESC,
+    --avg_salary DESC,
     demand_count DESC
-LIMIT 25
+LIMIT 100

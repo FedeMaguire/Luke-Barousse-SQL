@@ -242,5 +242,5 @@ This project enhanced my SQL skills and provided valuable insights into the data
 
 2023 DATA JOB POSTINGS ANALYSIS WORLD MAP
 INTERACTIVE TABLEAU DASHBOARD
-![Top Paying Roles](assets/1_top_paying_roles.png)
+![Top Paying Roles](assets/mapdashboatrd.jpg)
 By engaging with the dashboard, you can explore the nuances of the 2023 data field job market. Dive into specific countries, filter postings by remote or on-site, and uncover insights on top platforms, in-demand skills, posting by location and job title, and salary trends.

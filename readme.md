@@ -2,6 +2,14 @@
 Dive into the data job market! Focusing on data analysis roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
 - SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
+## 2023 DATA JOB POSTINGS ANALYSIS WORLD MAP INTERACTIVE TABLEAU DASHBOARD
+By engaging with the dashboard, you can explore the nuances of the 2023 data field job market. Dive into specific countries, filter postings by remote or on-site, and uncover insights on top platforms, in-demand skills, posting by location and job title, and salary trends.
+
+![Dashboard](assets/mapdashboatrd.jpg)
+[Link to Tableau Dashboard](https://public.tableau.com/views/2023DatasalariesAnalysis/SalaryaverageMap?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+
+
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
@@ -237,10 +245,3 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
-
-# Dashboard
-
-2023 DATA JOB POSTINGS ANALYSIS WORLD MAP
-INTERACTIVE TABLEAU DASHBOARD
-![Top Paying Roles](assets/mapdashboatrd.jpg)
-By engaging with the dashboard, you can explore the nuances of the 2023 data field job market. Dive into specific countries, filter postings by remote or on-site, and uncover insights on top platforms, in-demand skills, posting by location and job title, and salary trends.
